@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 2 - Фильтрация по тегу MainActivity](images/image_2.png)
+<img width="1831" height="495" alt="image" src="https://github.com/user-attachments/assets/ab977bd2-69cb-4559-9744-47aaafdfa30d" />
 
 *Рисунок 2. Фильтрация по тегу*
 
