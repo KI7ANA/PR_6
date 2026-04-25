@@ -240,7 +240,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 7 - Таймер запущен](images/image_7.png)
+<img width="439" height="800" alt="image" src="https://github.com/user-attachments/assets/9432274b-50c5-4203-be0c-f806fddf02b9" />
 
 *Рисунок 7. Сообщение о запуске таймера*
 
@@ -248,7 +248,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 8 - Результат срабатывания таймера](images/image_8.png)
+<img width="437" height="800" alt="image" src="https://github.com/user-attachments/assets/7d10c8ba-c4df-4084-a059-38f68bbd748c" />
 
 *Рисунок 8. Изменение текста после 5 секунд*
 
@@ -367,7 +367,7 @@ public class StopwatchActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 9 - Интерфейс секундомера](images/image_9.png)
+<img width="481" height="800" alt="image" src="https://github.com/user-attachments/assets/591263c4-8b07-40dd-beed-76fd5aefa7d5" />
 
 *Рисунок 9. Экран секундомера*
 
@@ -375,7 +375,7 @@ public class StopwatchActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 10 - Работа секундомера](images/image_10.png)
+<img width="449" height="787" alt="image" src="https://github.com/user-attachments/assets/3754a39e-747c-48f3-b4d6-ca4ddc491854" />
 
 *Рисунок 10. Отсчёт времени в Chronometer*
 
