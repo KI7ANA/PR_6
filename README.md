@@ -526,7 +526,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 11 - Главный экран варианта 5](images/image_11.png)
+<img width="462" height="801" alt="image" src="https://github.com/user-attachments/assets/513a9849-5247-44cf-93ce-871013497298" />
 
 *Рисунок 11. Начальное состояние приложения*
 
@@ -534,7 +534,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 12 - Вычисление функции на экране](images/image_12.png)
+<img width="443" height="791" alt="image" src="https://github.com/user-attachments/assets/4b090420-f74d-4939-ba4e-2adbf59626ae" />
 
 *Рисунок 12. Отображение текущего значения функции*
 
@@ -542,7 +542,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 13 - Логи в Logcat](images/image_13.png)
+<img width="1799" height="933" alt="image" src="https://github.com/user-attachments/assets/abc13048-3951-4547-8bf3-97d6ac75e034" />
 
 *Рисунок 13. Вывод результатов в Logcat*
 
