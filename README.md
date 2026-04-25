@@ -119,7 +119,7 @@ Log.d(TAG, "Debug: отладочное сообщение");
 
 <div align="center">
 
-![Рисунок 4 - Установленная точка останова](images/image_4.png)
+<img width="1816" height="939" alt="image" src="https://github.com/user-attachments/assets/e8c1e80d-7220-4fd1-98d6-d0ad7c244450" />
 
 *Рисунок 4. Точка останова в коде*
 
@@ -127,7 +127,7 @@ Log.d(TAG, "Debug: отладочное сообщение");
 
 <div align="center">
 
-![Рисунок 5 - Окно Debugger](images/image_5.png)
+<img width="1803" height="913" alt="image" src="https://github.com/user-attachments/assets/7b56d093-cfff-41db-a03c-c7dffc57273f" />
 
 *Рисунок 5. Работа в режиме отладки*
 
