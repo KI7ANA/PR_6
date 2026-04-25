@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 1 - Logcat с сообщениями приложения](images/image_1.png)
+<img width="1825" height="498" alt="image" src="https://github.com/user-attachments/assets/19bf83ad-30e8-403b-b642-cd64b2849a18" />
 
 *Рисунок 1. Вывод сообщений в Logcat*
 
