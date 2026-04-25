@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 3 - Поиск по тексту сообщения](images/image_3.png)
+<img width="1822" height="505" alt="image" src="https://github.com/user-attachments/assets/c1523dde-40e0-4f12-ae3c-94093c5a1559" />
 
 *Рисунок 3. Поиск сообщения в Logcat*
 
