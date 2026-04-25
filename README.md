@@ -232,7 +232,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 6 - Начальное состояние перед запуском таймера](images/image_6.png)
+<img width="416" height="791" alt="image" src="https://github.com/user-attachments/assets/b44aaf29-eaba-4728-8cd4-6696fd358281" />
 
 *Рисунок 6. Начальное состояние экрана*
 
